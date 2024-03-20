@@ -20,4 +20,3 @@ Para usar este projeto, siga estas etapas:
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para enviar um pull request com suas alterações.
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
